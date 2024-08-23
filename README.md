@@ -11,3 +11,6 @@ my GitHub stats :D
 
 ![](https://github-readme-stats.vercel.app/api?username=michy0902&show_icons=true&theme=merko)
 <br>
+<a href="https://www.github.com/michy0902">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michy0902&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="michy" height="180" width="400"/>
+</a>
